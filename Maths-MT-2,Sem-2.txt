@@ -1,0 +1,100 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{parskip}
+%opening
+\title{}
+\author{}
+\begin{document}
+\noindent
+\small{RAJIV GANDHI UNIVERSITY OF KNOWLEDGE AND  TECHNOLOGIES,BASAR}
+\begin{center}
+ (A.Y.2021-2022)\\
+\end{center}
+{Subject:DE and VC \hfill Exam:E1S2(all except EE)MT-II
+\vspace{6px}\\
+DATE:1-10-2022\hspace{55px}\framebox{ID No:\hspace{75px} }\hspace{45px} Duration:60 Min
+\vspace{6px}\\
+Subject code:MA1201\hfill Max Marks:30}\\
+\hrule
+\begin{center}
+SECTION-A\\
+\end{center}
+\vspace{6px}
+Answer all the questions.Each carries two marks\hfill10 x 2= 20
+\vspace{6px}\\
+Note: Write the amswers in orderly at one place
+\vspace{6px}\\
+1.The general solution of the differential equation\textit{$(D^3-3D-2)y=0$} is ...
+\vspace{6px}\\
+A.\textit{y(x)=$(c_1+c_2x)e^{-x}+c_3e^{2x}$}\hspace{50px}
+B.\textit{y(x)=$(c_1+c_2x)e^{-2x}+c_3e^{-x}$}\\
+C.\textit{y(x)=$(c_1+c_2x)e^x+c_3e^{2x}$}\hspace{50px}
+D.\textit{y(x)=$(c_1+c_2x)e^x+c_3e^{-2x}$}
+\vspace{6px}\\
+2.The general solution of differential equation \textit{$4x^2y^{ll}+y=0$} is ...
+\vspace{6px}\\
+A.\textit{y(x)=$(c_1+c_2lnx)x^{-1/2},x>0$}\hspace{50px}
+B.\textit{y(x)=$(c_1+c_2x)e^{x/2},x>0$}\\
+C.\textit{y(x)=$(c_1+c_2x)e^{x/2},x>0$}\hspace{50px}
+D.\textit{y(x)=$(c_1+c_2lnx)x^{1/2},x>0$}
+\vspace{6px}\\
+3.The particular Integral of \textit{$y^{ll}+y = 6sinx$} is ...\vspace{6px}\\
+A.\textit{$y_p=3xcosx$}\hspace{25px}
+B.\textit{$y_p=-3xcosx$}\hspace{25px}
+C.\textit{$y_p=-3xsinx$}\hspace{25px}
+D.\textit{$y_p=3xsinx$}
+\vspace{6px}\\
+4.By changing the order of integration,the integral
+\textit{$\int_{-a}^a\int_0^{\sqrt{a^2-y^2}}$ f(x,y)dxdy} transformed to ...
+\vspace{6px}\\
+A.\textit{$\int_{-a}^a\int_{-\sqrt{a^2-x^2}}^{\sqrt{a^2-x^2}}$ f(x,y)dydx}\hspace{50px}
+B.\textit{$\int_0^a\int_0^{\sqrt{a^2-x^2}}$ f(x,y)dydx}\\
+C.\textit{$\int_0^a\int_{-\sqrt{a^2-x^2}}^{\sqrt{a^2-x^2}}$ f(x,y)dydx}\hspace{50px}
+D.\textit{$\int_{-a}^a\int_0^{\sqrt{a^2-x^2}}$ f(x,y)dydx}
+\vspace{6px}\\
+5.The value of the integral $\int\int_R x^2dxdy$ over the region R bounded by the hyperbola \textit{xy=4,y=0.x=1,x=4 }is...\vspace{6px}\\
+A.-16/3\hspace{25px}B.16/3\hspace{25px}C.-30\hspace{25px}D.30
+\vspace{6px}\\
+6.The value of the integral$\int\int\int(x+y+z)dzdydx$ over the volume bounded by the planes \textit{x=0,x=1,y=0,y=1,z=0,z=1} is...\vspace{6px}\\
+A.$\frac{5}{2}$\hspace{25px}B.$\frac{3}{2}$\hspace{25px}C.$\frac{-3}{2}$\hspace{25px}D.$\frac{-5}{2}$
+\vspace{6px}\\
+7.The gradient of a scalar point function \textit{ln(x+y+z)} at (1,2,-1)is...\\
+A.\textit{$\frac{i+j+k}{2}$}\hspace{25px}B.\textit{$\frac{i-j+k}{2}$}\hspace{25px}C.\textit{$\frac{i-j-k}{2}$}\hspace{25px}D.\textit{$\frac{-i-j-k}{2}$}
+\vspace{6px}\\
+
+\pagebreak[1]
+8.The value of the integral $\int\int\frac{1}{xy}dxdy$,over the region bounded by 1$\le$x$\le$2,1$\le$y$\le$2 is...\vspace{6px}\\
+A.\textit{log$2^2$}\hspace{25px}B.\textit{2log2}\hspace{25px}C.\textit{log4}\hspace{25px}D.\textit{$(log2)^2$}\vspace{6px}\\
+9.If \textit{f(x , y , z)=xsin(x + y + z)},then \textit{Curl(gradf)} is...\\
+A.0\hspace{25px}B.$\bar{0}$\hspace{25px}C.1\hspace{25px}D.-1
+\vspace{6px}\\
+10.If \textit{f(x,y,z)=$x^2-y^2$, C}  is the closed curve \textit{x =3cost,y= 3sint, 0 $\le$ t $\le$ 2$\pi$} then $\int_C f(x,y,z)ds$ = ...\\
+A.$\frac{2}{3}$\hspace{25px}B.$\frac{-2}{3}$\hspace{25px}
+C. 0\hspace{25px}D.$\frac{5}{3}$
+\vspace{6px}\\
+\begin{center}
+\textbf{SECTION-B}\\
+\end{center}
+\vspace{6px}
+\textbf{Answer any two of the following questions.\hspace{110px}2 x 5 =10}
+\vspace{6px}\\
+11.\hfill[2+3]
+\vspace{6mm}\\
+(a)Find the equation of the tangent plane to the surface $z = 16 - x^2 - y^2$ at (1,3,6).\\
+(b)Find the directional derivative of \textit{xyz} at (1,4,3) in the direction of the line from (1,2,3) to (1,-1,-3).\\
+12.\hfill[2+3]\\
+(a)Find the particular Integral of $(D^3+1)y=cos(2x-1)$\\
+(b)Solve $y^{ll} + 16y= 32sec2x$ by the method of variation of parameters\\
+13.\hfill[5]\\
+Find the volume of the solid in the fifrst octant bounded by the paraboloid $z = 36-4x^2-9y^2$\\
+14.\hfill[2+3]\\
+(a)Evaluate the integral $\int \int_R e^{x^2}dxdy$,where R is the region\\given by R = $[{ (x,y) : 2y\le x \le 2,0 \le y \le 1 }]$\\
+(b)Evaluate $\int\int r^3 drd\theta$ over the area included between the circles $r = 2sin\theta$ and $r = 4sin\theta.$
+\vspace{120px}\\
+\centering
+\framebox{End os the MT Question paper}
+                                                    
+
+
+
+\end{document}
